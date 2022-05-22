@@ -3,6 +3,4 @@
 ---
 
 
-kBrain입니당 
-
-- [[Zettelkasten/permanent/외우지 말고 이해하라는 말의 진짜 의미|외우지 말고 이해하라는 말의 진짜 의미]]
+kBrain입니당. 엣헴
