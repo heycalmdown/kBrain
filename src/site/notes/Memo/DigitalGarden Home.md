@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/memo/digital-garden-home/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/memo/digital-garden-home/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
